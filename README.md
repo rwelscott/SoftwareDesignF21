@@ -1,1 +1,3 @@
-# SoftwareDesignF21
+# Health Database
+
+Author: Rachel Welscott
