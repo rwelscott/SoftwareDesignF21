@@ -4,7 +4,7 @@ import pytest
 @pytest.mark.parametrize("input, expected", [
     ("22 lb", 10),
     ("50 kg", 50),
-    ("22.1 lb",10),
+    ("22.1 lb", 10),
     ("35.5 kg", 36),
     # ("too much", False),
     ("22 lbs", 10),
